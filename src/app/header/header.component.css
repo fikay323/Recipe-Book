@@ -1,0 +1,7 @@
+.navbar-brand {
+    color: black !important;
+    font-weight: 700;
+}
+a {
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.row .col-xs-7, .col-xs-3 {
+    padding: 0 5px 0 0 !important;
+}
+input.ng-invalid.ng-touched, textarea.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+span {
+    color: red;
+    font-size: small;
+}
+span[noColor] {
+    color: black;
+}
+[cancel] {
+    margin-left: 10px !important;
+}
+[marginTop] {
+    margin-top: 10px;
+}
+img {
+    height: 25rem
+}
